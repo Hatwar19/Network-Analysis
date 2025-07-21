@@ -3,7 +3,7 @@ AY- 2025-26 (Odd Sem)
 ```bash
 Student-Project-Repo/
 ├── Code/
-│   └── (students upload their code)
+│   └── (students upload their OWN MAIN code)
 ├── Report/
 │   └── (students upload their report)
 ├── Evaluation/
